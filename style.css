@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(2, 27, 44);
+    color: rgb(7, 212, 35);
+}
+nav{
+    display: flex;
+    background-color: rgb(13, 2, 41);
+}
+h1{
+    margin: 5px 99px 2px 92px;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
+.container{
+    display: inline-block;
+    margin: 92px 0px 0px 415px;
+}
+span{
+    color: rgb(137, 150, 117);
+}
+.main{
+    color: rgba(255, 166, 0, 0.562);
+    font-size: 70px;
+    margin: 0px 23px
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.red{
+    color: rgb(54, 2, 2);
+}
+.all{
+    font-family: 'Dosis', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#poem2{
+    color: rgb(187, 111, 12);
+}
